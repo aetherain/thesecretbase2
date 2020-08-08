@@ -77,4 +77,27 @@
       text-align:right;
       background-color: #F0DEFD;
   }
+  .navbar-toggler-icon{
+    font-size: 0.6em;
+  }
+  
+  .navbar-toggler{
+    padding: 1% 2% 1% 2%;
+    display:inline;
+    
+  }
+  .navbar button{
+    margin-bottom:10%;
+  }
+  
+  
+  @media (max-width: 768px) {
+  .navbar-collapse{
+    background-color:#FDDFDF
+  }
+  .webtitle h1{
+    text-align:left;
+    padding-left:10%
+  }
+  }
   
